@@ -23,7 +23,7 @@ interface no navegador até scripts em nível de sistema.
 
 • Ensino Médio Incompleto<br>
 • Formação autodidata em Desenvolvimento de Software<br>
-• Aprendizado contínuo através de projetos práticos e documentação oficial****
+• Aprendizado contínuo através de projetos práticos e documentação oficial
 
 ### Tecnologias
 
