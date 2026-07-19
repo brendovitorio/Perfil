@@ -19,6 +19,12 @@ Artificial e ferramentas mobile, com atenção a arquitetura limpa,
 escalabilidade e entrega real em produção. Transito por toda a stack — da
 interface no navegador até scripts em nível de sistema.
 
+## Formação
+
+• Ensino Médio Incompleto
+• Formação autodidata em Desenvolvimento de Software
+• Aprendizado contínuo através de projetos práticos e documentação oficial
+
 ### Tecnologias
 
 **Linguagens**
