@@ -53,10 +53,6 @@ interface no navegador até scripts em nível de sistema.
 ### Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=brendovitorio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendovitorio&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brendovitorio&theme=tokyonight&hide_border=true" alt="Streak do GitHub" />
 </p>
 
